@@ -2,30 +2,41 @@ import { defineConfig } from "vitepress";
 
 export default defineConfig({
   title: "Lazy Study Doc",
-  description: "A VitePress Site",
+  description: "",
   themeConfig: {
-    nav: [
-      { text: "Home", link: "/" },
-      { text: "Examples", link: "/markdown-examples" },
-    ],
+    nav: [{ text: "Home", link: "/" }],
 
     sidebar: [
       {
         text: "Welcome",
-        items: [
-          { text: "Markdown Examples", link: "/markdown-examples" },
-          { text: "Runtime API Examples", link: "/api-examples" },
-        ],
+        link: "/welcome",
       },
       {
         text: "Science",
+        collapsed: false,
         items: [
-          { text: "Markdown Examples", link: "/markdown-examples" },
-          { text: "Runtime API Examples", link: "/api-examples" },
+          {
+            text: "Higher Math",
+            collapsed: true,
+            items: [
+              { text: "1st Paper", link: "/higher-math/1st-paper" },
+              { text: "2nd Paper", link: "/higher-math/2nd-paper" },
+            ],
+          },
+          {
+            text: "Physics",
+            collapsed: true,
+            items: [
+              { text: "1st Paper", link: "/physics/1st-paper" },
+              { text: "2nd Paper", link: "/physics/2nd-paper" },
+            ],
+          },
         ],
       },
     ],
 
-    socialLinks: [{ icon: "github", link: "" }],
+    socialLinks: [
+      { icon: "github", link: "https://github.com/rockyxwall/Lazy-Study-Doc" },
+    ],
   },
 });
