@@ -3,8 +3,7 @@ layout: home
 
 hero:
   name: "Lazy Study Doc"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  tagline: ranking of free/paid online study resorses
   actions:
     - theme: brand
       text: Welcome
