@@ -3,9 +3,17 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "Lazy Study Doc",
   description: "",
+
+  markdown: {
+    math: true,
+    image: {
+      // image lazy loading is disabled by default
+      lazyLoading: true,
+    },
+  },
+
   themeConfig: {
     nav: [{ text: "Home", link: "/" }],
-
     sidebar: [
       {
         text: "Welcome",
