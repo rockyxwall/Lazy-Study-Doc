@@ -7,7 +7,6 @@ export default defineConfig({
   markdown: {
     math: true,
     image: {
-      // image lazy loading is disabled by default
       lazyLoading: true,
     },
   },
