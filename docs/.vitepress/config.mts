@@ -38,6 +38,14 @@ export default defineConfig({
               { text: "2nd Paper", link: "/physics/2nd-paper" },
             ],
           },
+          {
+            text: "Engineering Drawing",
+            collapsed: true,
+            items: [
+              { text: "1st Paper", link: "/engineering-drawing/1st-paper" },
+              { text: "2nd Paper", link: "/engineering-drawing/2nd-paper" },
+            ],
+          },
         ],
       },
     ],
