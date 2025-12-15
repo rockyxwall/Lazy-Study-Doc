@@ -18,4 +18,7 @@ features:
   - title: Physics 1st Paper
     details: Soon
     link: /physics/1st-paper
+  - title: Engineering Drawing
+    details: Soon
+    link: /engineering-drawing/1st-paper
 ---
