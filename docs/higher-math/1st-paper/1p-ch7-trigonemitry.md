@@ -1,6 +1,6 @@
 # Ratio and Triangle
 
-![Example](../attachments/Pasted%20image%2020251206020212.png)
+![Pasted image 20251206020212.png](/higher-math/attachments/Pasted%20image%2020251206020212.png)
 
 # Systems of Measuring Angles
 
@@ -18,7 +18,7 @@ If a minute is divided into 60 parts, each part is = 1’’
 
 ### Examples:
 
-![Example](../attachments/Pasted%20image%2020251206020720.png)
+![Pasted image 20251206020720.png](/higher-math/attachments/Pasted%20image%2020251206020720.png)
 
 ## **2) Circular System:**
 
@@ -31,7 +31,7 @@ In the circular system, the angle subtended by an arc equal in length to the rad
 
 ### Examples:
 
-![Example](../attachments/Pasted%20image%2020251206023242.png)
+![Pasted image 20251206023242.png](/higher-math/attachments/Pasted%20image%2020251206023242.png)
 
 ## **3) Centesimal System:**
 
@@ -46,4 +46,4 @@ In Centesimal System, an angle is measured in grades, minutes and seconds. In 
 
 ### Example:
 
-![Example](../attachments/Pasted%20image%2020251206025245.png)
+![Pasted image 20251206025245.png](/higher-math/attachments/Pasted%20image%2020251206025245.png)
