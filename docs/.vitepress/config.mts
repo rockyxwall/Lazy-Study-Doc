@@ -48,6 +48,20 @@ export default defineConfig({
           },
         ],
       },
+      {
+        text: "EBI",
+        collapsed: false,
+        items: [
+          {
+            text: "English",
+            collapsed: true,
+            items: [
+              { text: "1st Paper", link: "/english/1st-paper" },
+              { text: "2nd Paper", link: "/english/2nd-paper" },
+            ],
+          },
+        ],
+      },
     ],
 
     socialLinks: [
